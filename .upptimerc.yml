@@ -20,8 +20,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Upptime | Marc Anton Dahmen"
-  introTitle: "Status"
+  name: "Upptime / Marc Anton Dahmen"
+  introTitle: "**Status**"
   introMessage: "System status of [Marc Anton Dahmen's](https://marcdahmen.de) personal projects as well as [Automad](https://automad.org) sites"
   navbar:
     - title: Status
