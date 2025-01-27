@@ -20,9 +20,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: "Upptime | Marc Anton Dahmen"
+  introTitle: "Status"
+  introMessage: "System status of [Marc Anton Dahmen's](https://marcdahmen.de) personal projects as well as [Automad](https://automad.org) sites"
   navbar:
     - title: Status
       href: /
