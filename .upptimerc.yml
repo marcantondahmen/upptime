@@ -19,8 +19,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Upptime / Marc Anton Dahmen"
+  logoUrl: https://raw.githubusercontent.com/marcantondahmen/upptime/refs/heads/master/assets/mad.svg
+  name: "Status"
+  theme: night
   introTitle: "**Status**"
   introMessage: "System status of [Marc Anton Dahmen's](https://marcdahmen.de) personal projects as well as [Automad](https://automad.org) sites"
   navbar:

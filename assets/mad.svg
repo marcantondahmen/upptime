@@ -7,11 +7,11 @@
 >
 	<style>
 		.mad-logo__fill {
-			fill: currentColor;
+			fill: #c9d1d9;
 		}
 
 		.mad-logo__stroke {
-			stroke: currentColor;
+			stroke: #c9d1d9;
 			stroke-width: 6.5px;
 		}
 	</style>
