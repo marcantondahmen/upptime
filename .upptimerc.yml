@@ -14,10 +14,12 @@ status-website:
   cname: status.marcdahmen.de
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/marcantondahmen/upptime/refs/heads/master/assets/mad.svg
-  name: "Status"
+  favicon: https://blog.marcdahmen.de/shared/favicon.svg
+  name: "MAD Status"
   theme: night
-  introTitle: "**Status**"
-  introMessage: "System status page for [Marc Anton Dahmen's](https://marcdahmen.de) personal sites"
+  css: ":root { --body-background-color: #141517; --body-text-color: #f0f1f3; --card-background-color: #1b1c1e; --nav-background-color: #141517; --nav-border-bottom-color: #202327; --nav-current-border-bottom-color: #f0f1f3; --card-border-color: #1b1c1e; --up-border-left-color: #2ecc71; --tag-up-background-color: #2ecc71; }"
+  introTitle: "**System Status**"
+  introMessage: "This is the system status page for Marc Anton Dahmen's personal sites"
   navbar:
     - title: Status
       href: /
