@@ -7,12 +7,6 @@ sites:
     url: https://marcdahmen.de
   - name: Marc's Blog
     url: https://blog.marcdahmen.de
-  - name: Automad
-    url: https://automad.org
-  - name: Try Automad
-    url: https://try.automad.org
-  - name: Automad Packages
-    url: https://packages.automad.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +17,7 @@ status-website:
   name: "Status"
   theme: night
   introTitle: "**Status**"
-  introMessage: "System status of [Marc Anton Dahmen's](https://marcdahmen.de) personal projects as well as [Automad](https://automad.org) sites"
+  introMessage: "System status page for [Marc Anton Dahmen's](https://marcdahmen.de) personal sites"
   navbar:
     - title: Status
       href: /
