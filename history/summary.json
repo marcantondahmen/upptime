@@ -4,9 +4,9 @@
     "url": "https://marcdahmen.de",
     "icon": "https://icons.duckduckgo.com/ip3/marcdahmen.de.ico",
     "slug": "marc-anton-dahmen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 882,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2025-02-14": 1,
       "2025-02-12": 28
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://blog.marcdahmen.de",
     "icon": "https://icons.duckduckgo.com/ip3/blog.marcdahmen.de.ico",
     "slug": "marc-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -36,6 +37,7 @@
     "timeMonth": 873,
     "timeYear": 873,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2025-02-12": 27
     }
   }
