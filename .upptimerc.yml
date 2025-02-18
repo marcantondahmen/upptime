@@ -11,8 +11,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.marcdahmen.de
-  # baseUrl: /upptime
+  #cname: status.marcdahmen.de
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/marcantondahmen/upptime/refs/heads/master/assets/mad.svg
   favicon: https://blog.marcdahmen.de/shared/favicon.ico
   faviconSvg: https://blog.marcdahmen.de/shared/favicon.svg
