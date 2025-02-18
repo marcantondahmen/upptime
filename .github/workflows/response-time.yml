@@ -16,10 +16,10 @@
 
 name: Response Time CI
 on:
-  schedule:
-    - cron: "0 23 * * *"
-  repository_dispatch:
-    types: [response_time]
+  #schedule:
+  #  - cron: "0 23 * * *"
+  #repository_dispatch:
+  #  types: [response_time]
   workflow_dispatch:
 jobs:
   release:

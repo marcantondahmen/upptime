@@ -16,10 +16,10 @@
 
 name: Summary CI
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  repository_dispatch:
-    types: [summary]
+  #schedule:
+  #  - cron: "0 0 * * *"
+  #repository_dispatch:
+  #  types: [summary]
   workflow_dispatch:
 jobs:
   release:
